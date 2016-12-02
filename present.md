@@ -25,27 +25,23 @@
 
 
 ## Creating a course for classroom model
-Course Category setup
+# Course settings
+ * Course summary files - small image
+ * Course format - Topic/Weekly/Collapsable topics
+ * Course layout - Longer courses can use one section/page
+	* Show gradebook to students - Yes
+	* Completion tracking - Yes
+ * Groups - Additional level of organization
 
 
 
-- Course settings
-	Course summary files - small image
-	Course format - Topic versus Weekly
-		Collapsable topics
-	Course layout - Longer courses can use one section/page
-	Show gradebook to students - Yes
-	Completion tracking - Yes
-	Groups - Additional
-
-	
-
-- Course setup
-	Administrative section (News Forum)
-		Course Agreement (Quiz)
-	Topics - Day or Category
-	Collapsable topics
-
+# Course setup
+ * Administrative section (News Forum)
+ * Course Agreement (Quiz)
+ * Topics - Day or Category
+ 
+ 
+ 
 Add Activity or Resources
 	"+Add an activity or resource"
 	Hidden versus Visible to control content to users
