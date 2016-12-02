@@ -6,22 +6,6 @@
 
 
 
-#My wife ASHLEY is the greatest!
- * She is super hot
- * She is sweet
- * And she cooks!
-
-
-# Did I mention she is smart and ###difficult
-
-
-But I love her!
-
-
-A lot!
-
-
-
 #Create a course
 
 
@@ -38,8 +22,8 @@ A lot!
  * Course summary files - small image
  * Course format - Topic/Weekly/Collapsable topics
  * Course layout - Longer courses can use one section/page
-	* Show gradebook to students - Yes
-	* Completion tracking - Yes
+		* Show gradebook to students - Yes
+		* Completion tracking - Yes
  * Groups - Additional level of organization
 
 
@@ -48,18 +32,29 @@ A lot!
  * Administrative section (News Forum)
  * Course Agreement (Quiz)
  * Topics - Day or Category
- 
- 
- 
-Add Activity or Resources
-	"+Add an activity or resource"
-	Hidden versus Visible to control content to users
-	Activities - Assignment, Questionnaire, Quiz
-		- Attendance (ex - Study hall), Certificate (ex - Distance learning auto cert, auto cert after classroom class), Checklist (ex - Daily responsibilities), Forum (ex - DL ), Glossary 
-	
-- Files
-	Drag and Drop
-	
-- Quiz Activities
+
+
+
+# Add Activity or Resources
+ * "+Add an activity or resource"
+ * Control content: Hidden versus Visible
+ * Key Activities - Assignment, Questionnaire, Quiz
+ * Key Resources - Files , Folders
+
+## Other Activities
+ * Attendance (ex - Study hall)
+ * Certificate (ex - Distance learning auto cert, auto cert after classroom class)
+ * Checklist (ex - Daily responsibilities)
+ * Forum (ex - DL)
+ * Glossary 
+
+## Files
+ * Can drag and drop!
+ * Set to "Pop Up"
+ * Recommend using PDF format (Smaller file size, fixed version, universal)
+
+
+
+# Quiz Activities
 -- Types of questions
 -- Question banks
