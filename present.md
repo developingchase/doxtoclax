@@ -11,9 +11,10 @@
 
 
 ## Decide on Learning Model
-*Classroom - The current deployment model for the DLP (Can be used by ACT-T instructors as well as team NCOs leading training)
-*Distance - Allows students to login without instructor oversight and learn material
-*Hybrid/Flipped - Students are responsible for viewing material prior to class time; class time is focused on review, discussion, and hands on learning
+
+ * Classroom - The current deployment model for the DLP (Can be used by ACT-T instructors as well as team NCOs leading training)
+ * Distance - Allows students to login without instructor oversight and learn material
+ * Hybrid/Flipped - Students are responsible for viewing material prior to class time; class time is focused on review, discussion, and hands on learning
 
 
 ## Creating a course for classroom model
